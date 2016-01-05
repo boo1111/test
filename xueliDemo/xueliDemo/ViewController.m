@@ -22,7 +22,7 @@
     
     
     UIImage *bgImage=[UIImage imageNamed:@"实验裙"];
-    
+     
     // 图片的尺寸
     CGFloat imageW =bgImage.size.width/RATE*2;
     CGFloat imageH = bgImage.size.height/RATE*2;
